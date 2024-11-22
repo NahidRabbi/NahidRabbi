@@ -20,13 +20,13 @@
 
 - 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:ap:7ada6e14-2a8c-4b8d-be40-b3c5c908a2e5)
 
-- ⚡ Fun fact **I am a funny guy**
+- ⚡ Fun fact **I am a funny guy**.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/nahid-rabbi-770a282b0/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="30" /></a>
-  <a href="https://github.com/NahidRabbi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="devto" height="30" width="30" /></a>
+ <a href="https://dev.to/https://github.com/nahidrabbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://github.com/nahidrabbi" height="30" width="40" /></a>
   <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009753165965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009753165965" height="30" width="40" /></a>  
 
 </p>
