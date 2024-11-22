@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **nahidrabbi045@gmail.com**
 
-- 📄 Know about my experiences [[I am a funny guy](https://acrobat.adobe.com/id/urn:aaid:sc:ap:7ada6e14-2a8c-4b8d-be40-b3c5c908a2e5))
+- 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:ap:7ada6e14-2a8c-4b8d-be40-b3c5c908a2e5)
 
 - ⚡ Fun fact **I am a funny guy**
 
@@ -27,7 +27,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/nahid-rabbi-770a282b0/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="30" /></a>
   <a href="https://github.com/NahidRabbi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="devto" height="30" width="30" /></a>
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://fb.com/https://www.facebook.com/profile.php?id=100009753165965)  
+  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009753165965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009753165965" height="30" width="40" /></a>  
 
 </p>
 
